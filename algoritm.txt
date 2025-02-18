@@ -1,0 +1,82 @@
+===================================================
+============ █▓▒▒░░░ ALGORITMA ░░░▒▒▓█ ============
+===================================================
+
+
+   _____  
+██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗██║   ██║╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝██║   ██║   ██║   ███████║██║   ██║██╔██╗ ██║
+██╔═══╝ ██║   ██║   ██║   ██╔══██║██║   ██║██║╚██╗██║
+██║     ╚██████╔╝   ██║   ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝      ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+
+
+
+Pertemuan 1 (Pengenalan)
+- Apa itu Bahasa Pemrograman Python ?
+- Kelebihan dan Kekurangan Bahasa Pemrograman python !
+- kenapa harus belajar bahasa Pemrograman Python ?
+- Variabel
+- Tipe Data
+- Operator
+- memulai dengan Python.
+
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+Pertemuan 
+-
+-
+-
+
+
+Pertemuan 
+-
+-
+-
+
+
+Project
+-
+-
+-
