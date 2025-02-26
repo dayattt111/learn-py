@@ -50,3 +50,6 @@ Singkatnya, algoritma adalah rencana atau logika di balik suatu tugas, sedangkan
     6> Input         :  6
                         8
        Output        :  Luas segitiga: 24.0
+
+    7> input        : n
+       Output       : Total genap, Total Ganjil
