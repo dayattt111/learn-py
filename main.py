@@ -1,0 +1,1 @@
+print("Biar ndak kosong hehe")
